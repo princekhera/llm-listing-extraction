@@ -1,0 +1,6 @@
+data/cache/
+data/cache_mock/
+__pycache__/
+.env
+.DS_Store
+.env
